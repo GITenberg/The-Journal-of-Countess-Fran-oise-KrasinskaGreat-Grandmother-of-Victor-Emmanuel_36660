@@ -1,0 +1,39 @@
+_repo: The-Journal-of-Countess-Fran-oise-KrasinskaGreat-Grandmother-of-Victor-Emmanuel_36660
+_version: 0.1.0
+alternative_title: Dziennik Franciszki Krasińskiej. English
+contributor:
+  translator:
+    agent_name: Dziekonska, Kasimir
+    alias: Dziekoṅska, Kazimiera
+    gutenberg_agent_id: '38406'
+    url: http://www.gutenberg.org/2009/agents/38406
+covers:
+- cover_type: archival
+  image_path: 36660-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tańska-Hoffmanowa, Klementyna
+    aliases:
+    - Hoffmanowa, Klementyna (Tańska)
+    - Tanska-Hoffmanowa, Klementyna
+    birthdate: 1798
+    deathdate: 1845
+    gutenberg_agent_id: '38405'
+    url: http://www.gutenberg.org/2009/agents/38405
+    wikipedia: http://pl.wikipedia.org/wiki/Klementyna_Hoffmanowa
+description: 'Translation of: Dziennik Franciszki Krasińskiej'
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franciszka Krasińska, Countess, consort of Charles, Duke of Courland, 1743-1796
+  -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Diary fiction'
+title: The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel
+url: http://www.gutenberg.org/ebooks/36660
