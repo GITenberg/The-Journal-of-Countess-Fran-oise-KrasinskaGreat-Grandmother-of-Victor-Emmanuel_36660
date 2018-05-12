@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38405
     wikipedia: http://pl.wikipedia.org/wiki/Klementyna_Hoffmanowa
 description: 'Translation of: Dziennik Franciszki Krasińskiej'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36660#The-Journal-of-Countess-Fran-oise-KrasinskaGreat-Grandmother-of-Victor-Emmanuel
 gutenberg_issued: '2011-07-08'
 gutenberg_type: Text
 identifiers:
